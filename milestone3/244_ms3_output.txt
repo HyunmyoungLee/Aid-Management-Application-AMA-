@@ -1,0 +1,28 @@
+Script started on Mon 11 Dec 2017 08:59:45 PM EST
+eden.burton@matrix:~/oop244f17/ms3> ms3
+Linear: one two 
+As is: 
+one
+two
+
+Enter the following: 
+three<ENTER>
+four<ENTER>
+Ctrl^D<ENTER>
+
+three
+four
+one two three four 
+one
+two
+three
+four
+
+sku match
+non-perishable < perishable
+45|32|131|32
+113.5
+eden.burton@matrix:~/oop244f17/ms3> exit
+exit
+
+Script done on Mon 11 Dec 2017 09:00:10 PM EST
